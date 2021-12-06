@@ -1,0 +1,596 @@
+Uri: https://francokees94.wixsite.com/portfolio
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\portfolio.html
+Content Type: text/html
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/56be84de-9d60-4089-8df0-0ea6ec786b84.eot
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\56be84de-9d60-4089-8df0-0ea6ec786b84.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/50d35bbc-dfd4-48f1-af16-cf058f69421d.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\50d35bbc-dfd4-48f1-af16-cf058f69421d.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/278bef59-6be1-4800-b5ac-1f769ab47430.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\278bef59-6be1-4800-b5ac-1f769ab47430.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/2e309b1b-08b8-477f-bc9e-7067cf0af0b3.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\2e309b1b-08b8-477f-bc9e-7067cf0af0b3.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/ae1656aa-5f8f-4905-aed0-93e667bd6e4a.eot
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\ae1656aa-5f8f-4905-aed0-93e667bd6e4a.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/530dee22-e3c1-4e9f-bf62-c31d510d9656.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\530dee22-e3c1-4e9f-bf62-c31d510d9656.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/688ab72b-4deb-4e15-a088-89166978d469.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\688ab72b-4deb-4e15-a088-89166978d469.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/7816f72f-f47e-4715-8cd7-960e3723846a.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\7816f72f-f47e-4715-8cd7-960e3723846a.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/b7693a83-b861-4aa6-85e0-9ecf676bc4d6.eot
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\b7693a83-b861-4aa6-85e0-9ecf676bc4d6.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/bcf54343-d033-41ee-bbd7-2b77df3fe7ba.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\bcf54343-d033-41ee-bbd7-2b77df3fe7ba.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/b0ffdcf0-26da-47fd-8485-20e4a40d4b7d.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\b0ffdcf0-26da-47fd-8485-20e4a40d4b7d.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/da09f1f1-062a-45af-86e1-2bbdb3dd94f9.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\da09f1f1-062a-45af-86e1-2bbdb3dd94f9.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/07fe0fec-b63f-4963-8ee1-535528b67fdb.eot
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\07fe0fec-b63f-4963-8ee1-535528b67fdb.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/60be5c39-863e-40cb-9434-6ebafb62ab2b.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\60be5c39-863e-40cb-9434-6ebafb62ab2b.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/4c6503c9-859b-4d3b-a1d5-2d42e1222415.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\4c6503c9-859b-4d3b-a1d5-2d42e1222415.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/36c182c6-ef98-4021-9b0d-d63122c2bbf5.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\36c182c6-ef98-4021-9b0d-d63122c2bbf5.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/30b6ffc3-3b64-40dd-9ff8-a3a850daf535.eot
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\30b6ffc3-3b64-40dd-9ff8-a3a850daf535.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/775a65da-14aa-4634-be95-6724c05fd522.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\775a65da-14aa-4634-be95-6724c05fd522.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/988eaaa7-5565-4f65-bb17-146b650ce9e9.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\988eaaa7-5565-4f65-bb17-146b650ce9e9.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/3503a1a6-91c3-4c42-8e66-2ea7b2b57541.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\3503a1a6-91c3-4c42-8e66-2ea7b2b57541.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/88fcd49a-13c7-4d0c-86b1-ad1e258bd75d.eot
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\88fcd49a-13c7-4d0c-86b1-ad1e258bd75d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/9a2e4855-380f-477f-950e-d98e8db54eac.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\9a2e4855-380f-477f-950e-d98e8db54eac.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/fa82d0ee-4fbd-4cc9-bf9f-226ad1fcbae2.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\fa82d0ee-4fbd-4cc9-bf9f-226ad1fcbae2.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/48d599a6-92b5-4d43-a4ac-8959f6971853.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\48d599a6-92b5-4d43-a4ac-8959f6971853.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/0b3a3fca-0fad-402b-bd38-fdcbad1ef776.eot
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\0b3a3fca-0fad-402b-bd38-fdcbad1ef776.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/d5af76d8-a90b-4527-b3a3-182207cc3250.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\d5af76d8-a90b-4527-b3a3-182207cc3250.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/1d238354-d156-4dde-89ea-4770ef04b9f9.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\1d238354-d156-4dde-89ea-4770ef04b9f9.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/b68875cb-14a9-472e-8177-0247605124d7.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\b68875cb-14a9-472e-8177-0247605124d7.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/55f60419-09c3-42bd-b81f-1983ff093852.eot
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\55f60419-09c3-42bd-b81f-1983ff093852.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/5b4a262e-3342-44e2-8ad7-719998a68134.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\5b4a262e-3342-44e2-8ad7-719998a68134.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/4a3ef5d8-cfd9-4b96-bd67-90215512f1e5.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\4a3ef5d8-cfd9-4b96-bd67-90215512f1e5.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/58ab5075-53ea-46e6-9783-cbb335665f88.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\58ab5075-53ea-46e6-9783-cbb335665f88.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/93b6bf6a-418e-4a8f-8f79-cb9c99ef3e32.eot
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\93b6bf6a-418e-4a8f-8f79-cb9c99ef3e32.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/c881c21b-4148-4a11-a65d-f35e42999bc8.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\c881c21b-4148-4a11-a65d-f35e42999bc8.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/03634cf1-a9c9-4e13-b049-c90d830423d4.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\03634cf1-a9c9-4e13-b049-c90d830423d4.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/1bc99c0a-298b-46f9-b325-18b5e5169795.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\1bc99c0a-298b-46f9-b325-18b5e5169795.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/5b85c7cc-6ad4-4226-83f5-9d19e2974123.eot
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\5b85c7cc-6ad4-4226-83f5-9d19e2974123.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/835e7b4f-b524-4374-b57b-9a8fc555fd4e.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\835e7b4f-b524-4374-b57b-9a8fc555fd4e.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/2c694ef6-9615-473e-8cf4-d8d00c6bd973.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\2c694ef6-9615-473e-8cf4-d8d00c6bd973.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/3fc84193-a13f-4fe8-87f7-238748a4ac54.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\3fc84193-a13f-4fe8-87f7-238748a4ac54.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/7092fdcc-7036-48ce-ae23-cfbc9be2e3b0.eot
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\7092fdcc-7036-48ce-ae23-cfbc9be2e3b0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/5b29e833-1b7a-40ab-82a5-cfd69c8650f4.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\5b29e833-1b7a-40ab-82a5-cfd69c8650f4.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/b0298148-2d59-44d1-9ec9-1ca6bb097603.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\b0298148-2d59-44d1-9ec9-1ca6bb097603.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/ae1dea8c-a953-4845-b616-74a257ba72e6.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\ae1dea8c-a953-4845-b616-74a257ba72e6.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/f1feaed7-6bce-400a-a07e-a893ae43a680.eot
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\f1feaed7-6bce-400a-a07e-a893ae43a680.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/8ac9e38d-29c6-41ea-8e47-4ae4d2b1a4e1.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\8ac9e38d-29c6-41ea-8e47-4ae4d2b1a4e1.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/4bd09087-655e-4abb-844c-dccdeb68003d.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\4bd09087-655e-4abb-844c-dccdeb68003d.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/df234d87-eada-4058-aa80-5871e7fbe1c3.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\Helvetica\Fonts\df234d87-eada-4058-aa80-5871e7fbe1c3.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/2b40e918-d269-4fd9-a572-19f5fec7cd7f.eot?
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\2b40e918-d269-4fd9-a572-19f5fec7cd7f.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/26091050-06ef-4fd5-b199-21b27c0ed85e.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\26091050-06ef-4fd5-b199-21b27c0ed85e.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/cca525a8-ad89-43ae-aced-bcb49fb271dc.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\cca525a8-ad89-43ae-aced-bcb49fb271dc.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/88cc7a39-1834-4468-936a-f3c25b5d81a1.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\88cc7a39-1834-4468-936a-f3c25b5d81a1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/14d6bf5d-15f1-4794-b18e-c03fb9a5187e.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\14d6bf5d-15f1-4794-b18e-c03fb9a5187e.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Futura_Complete/v1/FuturaLTW05-LightCondensed.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Futura_Complete\v1\FuturaLTW05-LightCondensed.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Futura_Complete/v1/FuturaLTW05-LightCondensed.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Futura_Complete\v1\FuturaLTW05-LightCondensed.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3e0b2cd7-9657-438b-b4af-e04122e8f1f7.eot?
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\3e0b2cd7-9657-438b-b4af-e04122e8f1f7.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/bc176270-17fa-4c78-a343-9fe52824e501.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\bc176270-17fa-4c78-a343-9fe52824e501.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3516f91d-ac48-42cd-acfe-1be691152cc4.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\3516f91d-ac48-42cd-acfe-1be691152cc4.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d1b1e866-a411-42ba-8f75-72bf28e23694.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\d1b1e866-a411-42ba-8f75-72bf28e23694.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/48e5a0e1-2d56-46e5-8fc4-3d6d5c973cbf.eot?
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\48e5a0e1-2d56-46e5-8fc4-3d6d5c973cbf.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/07d62b21-8d7a-4c36-be86-d32ab1089972.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\07d62b21-8d7a-4c36-be86-d32ab1089972.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/c0050890-bbed-44b9-94df-2611d72dbb06.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\c0050890-bbed-44b9-94df-2611d72dbb06.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9f774d17-c03a-418e-a375-34f3beecbc7a.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\9f774d17-c03a-418e-a375-34f3beecbc7a.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3d009cd7-c8fe-40c0-93da-74f4ea8c530b.eot?
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\3d009cd7-c8fe-40c0-93da-74f4ea8c530b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/a9e95a29-98a7-404a-90ee-1929ad09c696.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\a9e95a29-98a7-404a-90ee-1929ad09c696.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0a7663fd-eae8-4e50-a67a-225271f8cceb.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\0a7663fd-eae8-4e50-a67a-225271f8cceb.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/58ae9be9-5d95-44b6-8b6c-e6da6a46822c.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\58ae9be9-5d95-44b6-8b6c-e6da6a46822c.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9c2cfd19-472b-4ef5-ad73-43eee68dc43b.eot?
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\9c2cfd19-472b-4ef5-ad73-43eee68dc43b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/abe3d3a9-c990-459f-9407-54ac96cd2f00.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\abe3d3a9-c990-459f-9407-54ac96cd2f00.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/09a4b57b-7400-4d30-b4ba-d6e303c57868.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\09a4b57b-7400-4d30-b4ba-d6e303c57868.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/a0cb08d5-975f-4c8d-bcdc-d771a014d92a.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\a0cb08d5-975f-4c8d-bcdc-d771a014d92a.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/86d60a09-e8f8-4003-b688-0f8a2aba6532.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\86d60a09-e8f8-4003-b688-0f8a2aba6532.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Linotype_Didot/v1/DidotLTW05-Italic.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Linotype_Didot\v1\DidotLTW05-Italic.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Linotype_Didot/v1/DidotLTW05-Italic.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Linotype_Didot\v1\DidotLTW05-Italic.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/cf053eae-ba1f-44f3-940c-a34b68ccbbdf.eot?
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\cf053eae-ba1f-44f3-940c-a34b68ccbbdf.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/8bf38806-3423-4080-b38f-d08542f7e4ac.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\8bf38806-3423-4080-b38f-d08542f7e4ac.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/e2b9cbeb-fa8e-41cd-8a6a-46044b29ba52.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\e2b9cbeb-fa8e-41cd-8a6a-46044b29ba52.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/c2a69697-4f06-4764-abd4-625031a84e31.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\c2a69697-4f06-4764-abd4-625031a84e31.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/dc423cc1-bf86-415c-bc7d-ad7dde416a34.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\dc423cc1-bf86-415c-bc7d-ad7dde416a34.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0163ac22-50a7-406e-aa64-c62ee6fbf3d7.eot?
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\0163ac22-50a7-406e-aa64-c62ee6fbf3d7.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/aee74cb3-c913-4b54-9722-6001c92325f2.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\aee74cb3-c913-4b54-9722-6001c92325f2.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/80de9d5d-ab5f-40ce-911b-104e51e93d7c.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\80de9d5d-ab5f-40ce-911b-104e51e93d7c.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/1b46b05b-cfdd-4d82-8c2f-5c6cfba1fe60.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\1b46b05b-cfdd-4d82-8c2f-5c6cfba1fe60.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/be340f0b-a2d4-41df-acb1-4dc124330a88.svg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\be340f0b-a2d4-41df-acb1-4dc124330a88.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Lulo_Clean/v1/LuloCleanW05-OneBold.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Lulo_Clean\v1\LuloCleanW05-OneBold.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Lulo_Clean/v1/LuloCleanW05-OneBold.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Lulo_Clean\v1\LuloCleanW05-OneBold.woff
+Content Type: application/font-woff
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/h3r77AwDsldr1E_2g4qqGFQlYEbsez9cZjKsNMjLOwM.eot?
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\h3r77AwDsldr1E_2g4qqGFQlYEbsez9cZjKsNMjLOwM.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/h3r77AwDsldr1E_2g4qqGPk_vArhqVIZ0nv9q090hN8.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\h3r77AwDsldr1E_2g4qqGPk_vArhqVIZ0nv9q090hN8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/h3r77AwDsldr1E_2g4qqGBsxEYwM7FgeyaSgU71cLG0.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\h3r77AwDsldr1E_2g4qqGBsxEYwM7FgeyaSgU71cLG0.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/h3r77AwDsldr1E_2g4qqGC3USBnSvpkopQaUR-2r7iU.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\h3r77AwDsldr1E_2g4qqGC3USBnSvpkopQaUR-2r7iU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/l/font?kit=h3r77AwDsldr1E_2g4qqGKWUboTb-jS2tyCOQMtm97g&skey=1bdc08fe61c3cc9e&v=v5
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\l\font.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/2NBlOVek2HIa2EeuV_3Cbw.eot?
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\2NBlOVek2HIa2EeuV_3Cbw.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/rijG6I_IOXJjsH07UEo2mw.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\rijG6I_IOXJjsH07UEo2mw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/p0A1C4_gK5NzKtuGSwNurQ.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\p0A1C4_gK5NzKtuGSwNurQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/rATt6MpBkxjRr3sy5fMEDg.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\rATt6MpBkxjRr3sy5fMEDg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/l/font?kit=dvQ6luzB0ViWP07p6fisSw&skey=87759fb096548f6d&v=v5
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\l\font-1.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/-GlaWpWcSgdVagNuOGuFKalSqKUsDpiXlwfj-ZM2w_A.eot?
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\-GlaWpWcSgdVagNuOGuFKalSqKUsDpiXlwfj-ZM2w_A.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/-GlaWpWcSgdVagNuOGuFKRUOjZSKWg4xBWp_C_qQx0o.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\-GlaWpWcSgdVagNuOGuFKRUOjZSKWg4xBWp_C_qQx0o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/-GlaWpWcSgdVagNuOGuFKRa1RVmPjeKy21_GQJaLlJI.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\-GlaWpWcSgdVagNuOGuFKRa1RVmPjeKy21_GQJaLlJI.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/-GlaWpWcSgdVagNuOGuFKdqQynqKV_9Plp7mupa0S4g.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\-GlaWpWcSgdVagNuOGuFKdqQynqKV_9Plp7mupa0S4g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/l/font?kit=-GlaWpWcSgdVagNuOGuFKd1LKoZ82bBu2f46DhHcs3c&skey=e6f64e60fb8d9268&v=v5
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\l\font-2.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/Fm41upUVp7KTKUZhL0PfQfY6323mHUZFJMgTvxaG2iE.eot?
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\Fm41upUVp7KTKUZhL0PfQfY6323mHUZFJMgTvxaG2iE.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/Fm41upUVp7KTKUZhL0PfQVtXRa8TVwTICgirnJhmVJw.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\Fm41upUVp7KTKUZhL0PfQVtXRa8TVwTICgirnJhmVJw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/Fm41upUVp7KTKUZhL0PfQT8E0i7KZn-EPnyo3HZu7kw.woff
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\Fm41upUVp7KTKUZhL0PfQT8E0i7KZn-EPnyo3HZu7kw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/poppins/v5/Fm41upUVp7KTKUZhL0PfQaCWcynf_cDxXwCLxiixG1c.ttf
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\Fm41upUVp7KTKUZhL0PfQaCWcynf_cDxXwCLxiixG1c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/l/font?kit=Fm41upUVp7KTKUZhL0PfQZbd9NUM7myrQQz30yPaGQ4&skey=f21d6e783fa43c88&v=v5
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\l\font-3.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiGyp8kv8JHgFVrJJLucXtAOvWDSHFF.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiGyp8kv8JHgFVrJJLucXtAOvWDSHFF.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiDyp8kv8JHgFVrJJLmy15VFteOYktMqlap.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiDyp8kv8JHgFVrJJLmy15VFteOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://www.wix.com/favicon.ico
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"222"}&beckyExperiments=specs.thunderbolt.SearchBoxRtl:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.seoFriendlyDropDownMenu:true%2Cspecs.thunderbolt.FileUploaderPopper:true%2Cspecs.thunderbolt.reCAPTCHA_UseEnterpriseSiteKey:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.ma_comboboxinputnavigation:true%2Cdm_inputFixerNotAddData:true%2Cspecs.thunderbolt.maskImageCSS:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.1455.0&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_enableDefaultA11ySettings%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Ffrancokees94.wixsite.com%2Fportfolio&fileId=55c615be.bundle.min&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=9da0628a-1537-4911-a43f-5032661299ee&migratingToOoiWidgetIds=1515a9e7-b579-fbbb-43fc-0e3051c14803&module=thunderbolt-platform&originalLanguage=en&pageId=0e2442_33c791df0abb28478f595e9fbea82d06_359.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7267.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7267.0"}]&remoteWidgetStructureBuilderVersion=1.228.0&siteId=e7b62648-a5f1-4aeb-af05-fcb9748e759a&siteRevision=359&viewMode=desktop
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\pages\pages\thunderbolt.json
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"222"}&beckyExperiments=specs.thunderbolt.SearchBoxRtl:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.seoFriendlyDropDownMenu:true%2Cspecs.thunderbolt.FileUploaderPopper:true%2Cspecs.thunderbolt.reCAPTCHA_UseEnterpriseSiteKey:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.ma_comboboxinputnavigation:true%2Cdm_inputFixerNotAddData:true%2Cspecs.thunderbolt.maskImageCSS:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.1455.0&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_enableDefaultA11ySettings%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Ffrancokees94.wixsite.com%2Fportfolio&fileId=55c615be.bundle.min&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=9da0628a-1537-4911-a43f-5032661299ee&migratingToOoiWidgetIds=1515a9e7-b579-fbbb-43fc-0e3051c14803&module=thunderbolt-platform&originalLanguage=en&pageId=0e2442_1becc5df12219cabe3e502e2fc9da36e_359.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7267.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7267.0"}]&remoteWidgetStructureBuilderVersion=1.228.0&siteId=e7b62648-a5f1-4aeb-af05-fcb9748e759a&siteRevision=359&viewMode=desktop
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\pages\pages\thunderbolt-1.json
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"222"}&beckyExperiments=specs.thunderbolt.SearchBoxRtl:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.seoFriendlyDropDownMenu:true%2Cspecs.thunderbolt.FileUploaderPopper:true%2Cspecs.thunderbolt.reCAPTCHA_UseEnterpriseSiteKey:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.ma_comboboxinputnavigation:true%2Cdm_inputFixerNotAddData:true%2Cspecs.thunderbolt.maskImageCSS:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.1455.0&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_enableDefaultA11ySettings%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Ffrancokees94.wixsite.com%2Fportfolio&fileId=3b567aee.bundle.min&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=9da0628a-1537-4911-a43f-5032661299ee&migratingToOoiWidgetIds=1515a9e7-b579-fbbb-43fc-0e3051c14803&module=thunderbolt-features&originalLanguage=en&pageId=0e2442_33c791df0abb28478f595e9fbea82d06_359.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7267.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7267.0"}]&remoteWidgetStructureBuilderVersion=1.228.0&siteId=e7b62648-a5f1-4aeb-af05-fcb9748e759a&siteRevision=359&staticHTMLComponentUrl=https:%2F%2Ffrancokees94-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\pages\pages\thunderbolt-2.json
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"222"}&beckyExperiments=specs.thunderbolt.SearchBoxRtl:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.seoFriendlyDropDownMenu:true%2Cspecs.thunderbolt.FileUploaderPopper:true%2Cspecs.thunderbolt.reCAPTCHA_UseEnterpriseSiteKey:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.ma_comboboxinputnavigation:true%2Cdm_inputFixerNotAddData:true%2Cspecs.thunderbolt.maskImageCSS:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.1455.0&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_enableDefaultA11ySettings%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Ffrancokees94.wixsite.com%2Fportfolio&fileId=3b567aee.bundle.min&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=9da0628a-1537-4911-a43f-5032661299ee&migratingToOoiWidgetIds=1515a9e7-b579-fbbb-43fc-0e3051c14803&module=thunderbolt-features&originalLanguage=en&pageId=0e2442_1becc5df12219cabe3e502e2fc9da36e_359.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7267.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7267.0"}]&remoteWidgetStructureBuilderVersion=1.228.0&siteId=e7b62648-a5f1-4aeb-af05-fcb9748e759a&siteRevision=359&staticHTMLComponentUrl=https:%2F%2Ffrancokees94-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\pages\pages\thunderbolt-3.json
+Content Type: application/json
+
+Uri: https://francokees94.wixsite.com/portfolio?lang=es
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\portfolio-1.html
+Content Type: text/html
+
+Uri: https://www.wix.com/lpviral/enviral?utm_campaign=vir_wixad_live&adsVersion=white&orig_msid=9da0628a-1537-4911-a43f-5032661299ee
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\lpviral\enviral.html
+Content Type: text/html
+
+Uri: https://francokees94.wixsite.com/portfolio/animations
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\portfolio\animations.html
+Content Type: text/html
+
+Uri: https://francokees94.wixsite.com/portfolio/proyecto-01
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\portfolio\proyecto-01.html
+Content Type: text/html
+
+Uri: https://francokees94.wixsite.com/portfolio/video-games
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\portfolio\video-games.html
+Content Type: text/html
+
+Uri: https://francokees94.wixsite.com/portfolio/contact
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\portfolio\contact.html
+Content Type: text/html
+
+Uri: https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\unpkg\core-js-bundle@3.2.1\minified.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\unpkg\focus-within-polyfill@5.0.9\dist\focus-within-polyfill.js
+Content Type: application/javascript
+
+Uri: https://polyfill.io/v3/polyfill.min.js?features=fetch
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\v3\polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/bootstrap-features.a164e0da.bundle.min.js
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\wix-thunderbolt\dist\bootstrap-features.a164e0da.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.19f97547.bundle.min.js
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\wix-thunderbolt\dist\main.19f97547.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\unpkg\lodash@4.17.21\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react@16.13.1/umd/react.production.min.js
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\unpkg\react@16.13.1\umd\react.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/tag-manager-client/1.427.0/siteTags.bundle.min.js
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\tag-manager-client\1.427.0\siteTags.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-perf-measure/1.641.0/wix-perf-measure.bundle.min.js
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\wix-perf-measure\1.641.0\wix-perf-measure.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react-dom@16.13.1/umd/react-dom.production.min.js
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\unpkg\react-dom@16.13.1\umd\react-dom.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/linguist-flags/1.663.0/assets/flags/round/USA.png
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\linguist-flags\1.663.0\assets\flags\round\USA.png
+Content Type: image/png
+
+Uri: https://static.parastorage.com/services/linguist-flags/1.663.0/assets/flags/round/ESP.png
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\linguist-flags\1.663.0\assets\flags\round\ESP.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/0e2442_87d0ccd9e923457aad6e8b649cabcc28f000.jpg/v1/fill/w_244,h_137,al_c,q_80,usm_0.66_1.00_0.01,blur_2/0e2442_87d0ccd9e923457aad6e8b649cabcc28f000.jpg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_87d0ccd9e923457aad6e8b649cabcc28f000.jpg\v1\fill\w_244,h_137,al_c,q_80,usm_0.66_1.00_0.01,blur_2\0e2442_87d0ccd9e923457aad6e8b649cabcc28f000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0e2442_9a1976a509c4408cb1b8160faae8d7fff000.jpg/v1/fill/w_186,h_105,al_c,q_80,usm_0.66_1.00_0.01,blur_3/0e2442_9a1976a509c4408cb1b8160faae8d7fff000.jpg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_9a1976a509c4408cb1b8160faae8d7fff000.jpg\v1\fill\w_186,h_105,al_c,q_80,usm_0.66_1.00_0.01,blur_3\0e2442_9a1976a509c4408cb1b8160faae8d7fff000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0e2442_4b92593257924e8eaf7a640c72931eebf000.jpg/v1/fill/w_184,h_104,al_c,q_80,usm_0.66_1.00_0.01,blur_3/0e2442_4b92593257924e8eaf7a640c72931eebf000.jpg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_4b92593257924e8eaf7a640c72931eebf000.jpg\v1\fill\w_184,h_104,al_c,q_80,usm_0.66_1.00_0.01,blur_3\0e2442_4b92593257924e8eaf7a640c72931eebf000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0e2442_6481caa16566435bad001013e4bed1a4~mv2.gif
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_6481caa16566435bad001013e4bed1a4~mv2.gif
+Content Type: image/gif
+
+Uri: https://static.wixstatic.com/media/0e2442_7297070622ae427a8bcfe8dac62e5f6a~mv2.gif
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_7297070622ae427a8bcfe8dac62e5f6a~mv2.gif
+Content Type: image/gif
+
+Uri: https://static.parastorage.com/services/linguist-flags/1.663.0/assets/flags/round/USA_2x.png
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\linguist-flags\1.663.0\assets\flags\round\USA_2x.png
+Content Type: image/png
+
+Uri: https://static.parastorage.com/services/linguist-flags/1.663.0/assets/flags/round/ESP_2x.png
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\linguist-flags\1.663.0\assets\flags\round\ESP_2x.png
+Content Type: image/png
+
