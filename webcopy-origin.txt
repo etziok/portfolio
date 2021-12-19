@@ -346,157 +346,9 @@ Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/us
 File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Lulo_Clean\v1\LuloCleanW05-OneBold.woff
 Content Type: application/font-woff
 
-Uri: https://fonts.gstatic.com/s/poppins/v5/h3r77AwDsldr1E_2g4qqGFQlYEbsez9cZjKsNMjLOwM.eot?
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\h3r77AwDsldr1E_2g4qqGFQlYEbsez9cZjKsNMjLOwM.eot
-Content Type: font/eot
-
-Uri: https://fonts.gstatic.com/s/poppins/v5/h3r77AwDsldr1E_2g4qqGPk_vArhqVIZ0nv9q090hN8.woff2
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\h3r77AwDsldr1E_2g4qqGPk_vArhqVIZ0nv9q090hN8.woff2
-Content Type: font/woff2
-
-Uri: https://fonts.gstatic.com/s/poppins/v5/h3r77AwDsldr1E_2g4qqGBsxEYwM7FgeyaSgU71cLG0.woff
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\h3r77AwDsldr1E_2g4qqGBsxEYwM7FgeyaSgU71cLG0.woff
-Content Type: font/woff
-
-Uri: https://fonts.gstatic.com/s/poppins/v5/h3r77AwDsldr1E_2g4qqGC3USBnSvpkopQaUR-2r7iU.ttf
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\h3r77AwDsldr1E_2g4qqGC3USBnSvpkopQaUR-2r7iU.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/l/font?kit=h3r77AwDsldr1E_2g4qqGKWUboTb-jS2tyCOQMtm97g&skey=1bdc08fe61c3cc9e&v=v5
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\l\font.svg
-Content Type: image/svg+xml
-
-Uri: https://fonts.gstatic.com/s/poppins/v5/2NBlOVek2HIa2EeuV_3Cbw.eot?
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\2NBlOVek2HIa2EeuV_3Cbw.eot
-Content Type: font/eot
-
-Uri: https://fonts.gstatic.com/s/poppins/v5/rijG6I_IOXJjsH07UEo2mw.woff2
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\rijG6I_IOXJjsH07UEo2mw.woff2
-Content Type: font/woff2
-
-Uri: https://fonts.gstatic.com/s/poppins/v5/p0A1C4_gK5NzKtuGSwNurQ.woff
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\p0A1C4_gK5NzKtuGSwNurQ.woff
-Content Type: font/woff
-
-Uri: https://fonts.gstatic.com/s/poppins/v5/rATt6MpBkxjRr3sy5fMEDg.ttf
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\rATt6MpBkxjRr3sy5fMEDg.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/l/font?kit=dvQ6luzB0ViWP07p6fisSw&skey=87759fb096548f6d&v=v5
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\l\font-1.svg
-Content Type: image/svg+xml
-
-Uri: https://fonts.gstatic.com/s/poppins/v5/-GlaWpWcSgdVagNuOGuFKalSqKUsDpiXlwfj-ZM2w_A.eot?
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\-GlaWpWcSgdVagNuOGuFKalSqKUsDpiXlwfj-ZM2w_A.eot
-Content Type: font/eot
-
-Uri: https://fonts.gstatic.com/s/poppins/v5/-GlaWpWcSgdVagNuOGuFKRUOjZSKWg4xBWp_C_qQx0o.woff2
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\-GlaWpWcSgdVagNuOGuFKRUOjZSKWg4xBWp_C_qQx0o.woff2
-Content Type: font/woff2
-
-Uri: https://fonts.gstatic.com/s/poppins/v5/-GlaWpWcSgdVagNuOGuFKRa1RVmPjeKy21_GQJaLlJI.woff
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\-GlaWpWcSgdVagNuOGuFKRa1RVmPjeKy21_GQJaLlJI.woff
-Content Type: font/woff
-
-Uri: https://fonts.gstatic.com/s/poppins/v5/-GlaWpWcSgdVagNuOGuFKdqQynqKV_9Plp7mupa0S4g.ttf
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\-GlaWpWcSgdVagNuOGuFKdqQynqKV_9Plp7mupa0S4g.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/l/font?kit=-GlaWpWcSgdVagNuOGuFKd1LKoZ82bBu2f46DhHcs3c&skey=e6f64e60fb8d9268&v=v5
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\l\font-2.svg
-Content Type: image/svg+xml
-
-Uri: https://fonts.gstatic.com/s/poppins/v5/Fm41upUVp7KTKUZhL0PfQfY6323mHUZFJMgTvxaG2iE.eot?
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\Fm41upUVp7KTKUZhL0PfQfY6323mHUZFJMgTvxaG2iE.eot
-Content Type: font/eot
-
-Uri: https://fonts.gstatic.com/s/poppins/v5/Fm41upUVp7KTKUZhL0PfQVtXRa8TVwTICgirnJhmVJw.woff2
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\Fm41upUVp7KTKUZhL0PfQVtXRa8TVwTICgirnJhmVJw.woff2
-Content Type: font/woff2
-
-Uri: https://fonts.gstatic.com/s/poppins/v5/Fm41upUVp7KTKUZhL0PfQT8E0i7KZn-EPnyo3HZu7kw.woff
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\Fm41upUVp7KTKUZhL0PfQT8E0i7KZn-EPnyo3HZu7kw.woff
-Content Type: font/woff
-
-Uri: https://fonts.gstatic.com/s/poppins/v5/Fm41upUVp7KTKUZhL0PfQaCWcynf_cDxXwCLxiixG1c.ttf
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v5\Fm41upUVp7KTKUZhL0PfQaCWcynf_cDxXwCLxiixG1c.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/l/font?kit=Fm41upUVp7KTKUZhL0PfQZbd9NUM7myrQQz30yPaGQ4&skey=f21d6e783fa43c88&v=v5
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\l\font-3.svg
-Content Type: image/svg+xml
-
-Uri: https://fonts.gstatic.com/s/poppins/v9/pxiGyp8kv8JHgFVrJJLucXtAOvWDSHFF.woff2
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiGyp8kv8JHgFVrJJLucXtAOvWDSHFF.woff2
-Content Type: font/woff2
-
-Uri: https://fonts.gstatic.com/s/poppins/v9/pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2
-Content Type: font/woff2
-
-Uri: https://fonts.gstatic.com/s/poppins/v9/pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2
-Content Type: font/woff2
-
-Uri: https://fonts.gstatic.com/s/poppins/v9/pxiDyp8kv8JHgFVrJJLmy15VFteOYktMqlap.woff2
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiDyp8kv8JHgFVrJJLmy15VFteOYktMqlap.woff2
-Content Type: font/woff2
-
-Uri: https://fonts.gstatic.com/s/poppins/v9/pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2
-Content Type: font/woff2
-
-Uri: https://fonts.gstatic.com/s/poppins/v9/pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2
-Content Type: font/woff2
-
-Uri: https://fonts.gstatic.com/s/poppins/v9/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2
-Content Type: font/woff2
-
-Uri: https://fonts.gstatic.com/s/poppins/v9/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2
-Content Type: font/woff2
-
-Uri: https://fonts.gstatic.com/s/poppins/v9/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
-Content Type: font/woff2
-
-Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2
-Content Type: font/woff2
-
-Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2
-Content Type: font/woff2
-
-Uri: https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\s\poppins\v9\pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
-Content Type: font/woff2
-
 Uri: https://www.wix.com/favicon.ico
 File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\favicon.ico
 Content Type: image/x-icon
-
-Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"222"}&beckyExperiments=specs.thunderbolt.SearchBoxRtl:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.seoFriendlyDropDownMenu:true%2Cspecs.thunderbolt.FileUploaderPopper:true%2Cspecs.thunderbolt.reCAPTCHA_UseEnterpriseSiteKey:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.ma_comboboxinputnavigation:true%2Cdm_inputFixerNotAddData:true%2Cspecs.thunderbolt.maskImageCSS:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.1455.0&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_enableDefaultA11ySettings%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Ffrancokees94.wixsite.com%2Fportfolio&fileId=55c615be.bundle.min&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=9da0628a-1537-4911-a43f-5032661299ee&migratingToOoiWidgetIds=1515a9e7-b579-fbbb-43fc-0e3051c14803&module=thunderbolt-platform&originalLanguage=en&pageId=0e2442_33c791df0abb28478f595e9fbea82d06_359.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7267.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7267.0"}]&remoteWidgetStructureBuilderVersion=1.228.0&siteId=e7b62648-a5f1-4aeb-af05-fcb9748e759a&siteRevision=359&viewMode=desktop
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\pages\pages\thunderbolt.json
-Content Type: application/json
-
-Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"222"}&beckyExperiments=specs.thunderbolt.SearchBoxRtl:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.seoFriendlyDropDownMenu:true%2Cspecs.thunderbolt.FileUploaderPopper:true%2Cspecs.thunderbolt.reCAPTCHA_UseEnterpriseSiteKey:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.ma_comboboxinputnavigation:true%2Cdm_inputFixerNotAddData:true%2Cspecs.thunderbolt.maskImageCSS:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.1455.0&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_enableDefaultA11ySettings%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Ffrancokees94.wixsite.com%2Fportfolio&fileId=55c615be.bundle.min&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=9da0628a-1537-4911-a43f-5032661299ee&migratingToOoiWidgetIds=1515a9e7-b579-fbbb-43fc-0e3051c14803&module=thunderbolt-platform&originalLanguage=en&pageId=0e2442_1becc5df12219cabe3e502e2fc9da36e_359.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7267.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7267.0"}]&remoteWidgetStructureBuilderVersion=1.228.0&siteId=e7b62648-a5f1-4aeb-af05-fcb9748e759a&siteRevision=359&viewMode=desktop
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\pages\pages\thunderbolt-1.json
-Content Type: application/json
-
-Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"222"}&beckyExperiments=specs.thunderbolt.SearchBoxRtl:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.seoFriendlyDropDownMenu:true%2Cspecs.thunderbolt.FileUploaderPopper:true%2Cspecs.thunderbolt.reCAPTCHA_UseEnterpriseSiteKey:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.ma_comboboxinputnavigation:true%2Cdm_inputFixerNotAddData:true%2Cspecs.thunderbolt.maskImageCSS:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.1455.0&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_enableDefaultA11ySettings%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Ffrancokees94.wixsite.com%2Fportfolio&fileId=3b567aee.bundle.min&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=9da0628a-1537-4911-a43f-5032661299ee&migratingToOoiWidgetIds=1515a9e7-b579-fbbb-43fc-0e3051c14803&module=thunderbolt-features&originalLanguage=en&pageId=0e2442_33c791df0abb28478f595e9fbea82d06_359.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7267.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7267.0"}]&remoteWidgetStructureBuilderVersion=1.228.0&siteId=e7b62648-a5f1-4aeb-af05-fcb9748e759a&siteRevision=359&staticHTMLComponentUrl=https:%2F%2Ffrancokees94-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\pages\pages\thunderbolt-2.json
-Content Type: application/json
-
-Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"222"}&beckyExperiments=specs.thunderbolt.SearchBoxRtl:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.seoFriendlyDropDownMenu:true%2Cspecs.thunderbolt.FileUploaderPopper:true%2Cspecs.thunderbolt.reCAPTCHA_UseEnterpriseSiteKey:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.ma_comboboxinputnavigation:true%2Cdm_inputFixerNotAddData:true%2Cspecs.thunderbolt.maskImageCSS:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.1455.0&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_enableDefaultA11ySettings%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Ffrancokees94.wixsite.com%2Fportfolio&fileId=3b567aee.bundle.min&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=9da0628a-1537-4911-a43f-5032661299ee&migratingToOoiWidgetIds=1515a9e7-b579-fbbb-43fc-0e3051c14803&module=thunderbolt-features&originalLanguage=en&pageId=0e2442_1becc5df12219cabe3e502e2fc9da36e_359.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7267.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7267.0"}]&remoteWidgetStructureBuilderVersion=1.228.0&siteId=e7b62648-a5f1-4aeb-af05-fcb9748e759a&siteRevision=359&staticHTMLComponentUrl=https:%2F%2Ffrancokees94-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\pages\pages\thunderbolt-3.json
-Content Type: application/json
-
-Uri: https://francokees94.wixsite.com/portfolio?lang=es
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\portfolio-1.html
-Content Type: text/html
 
 Uri: https://www.wix.com/lpviral/enviral?utm_campaign=vir_wixad_live&adsVersion=white&orig_msid=9da0628a-1537-4911-a43f-5032661299ee
 File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\lpviral\enviral.html
@@ -506,16 +358,20 @@ Uri: https://francokees94.wixsite.com/portfolio/animations
 File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\portfolio\animations.html
 Content Type: text/html
 
-Uri: https://francokees94.wixsite.com/portfolio/proyecto-01
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\portfolio\proyecto-01.html
-Content Type: text/html
-
 Uri: https://francokees94.wixsite.com/portfolio/video-games
 File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\portfolio\video-games.html
 Content Type: text/html
 
+Uri: https://francokees94.wixsite.com/portfolio/proyecto-01
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\portfolio\proyecto-01.html
+Content Type: text/html
+
 Uri: https://francokees94.wixsite.com/portfolio/contact
 File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\portfolio\contact.html
+Content Type: text/html
+
+Uri: http://www.google.com.ar/
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\index.htm
 Content Type: text/html
 
 Uri: https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js
@@ -530,12 +386,12 @@ Uri: https://polyfill.io/v3/polyfill.min.js?features=fetch
 File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\v3\polyfill.min.js
 Content Type: text/javascript
 
-Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/bootstrap-features.a164e0da.bundle.min.js
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\wix-thunderbolt\dist\bootstrap-features.a164e0da.bundle.min.js
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/bootstrap-features.02d63618.bundle.min.js
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\wix-thunderbolt\dist\bootstrap-features.02d63618.bundle.min.js
 Content Type: application/javascript
 
-Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.19f97547.bundle.min.js
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\wix-thunderbolt\dist\main.19f97547.bundle.min.js
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.333e399b.bundle.min.js
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\wix-thunderbolt\dist\main.333e399b.bundle.min.js
 Content Type: application/javascript
 
 Uri: https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js
@@ -558,39 +414,155 @@ Uri: https://static.parastorage.com/unpkg/react-dom@16.13.1/umd/react-dom.produc
 File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\unpkg\react-dom@16.13.1\umd\react-dom.production.min.js
 Content Type: application/javascript
 
-Uri: https://static.parastorage.com/services/linguist-flags/1.663.0/assets/flags/round/USA.png
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\linguist-flags\1.663.0\assets\flags\round\USA.png
+Uri: https://static.wixstatic.com/media/0e2442_6d5cebb09e624f93b095a4e24571fb53~mv2.png/v1/fill/w_35,h_35,al_c,usm_0.66_1.00_0.01,blur_3/0e2442_6d5cebb09e624f93b095a4e24571fb53~mv2.png
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_6d5cebb09e624f93b095a4e24571fb53~mv2.png\v1\fill\w_35,h_35,al_c,usm_0.66_1.00_0.01,blur_3\0e2442_6d5cebb09e624f93b095a4e24571fb53~mv2.png
 Content Type: image/png
 
-Uri: https://static.parastorage.com/services/linguist-flags/1.663.0/assets/flags/round/ESP.png
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\linguist-flags\1.663.0\assets\flags\round\ESP.png
-Content Type: image/png
-
-Uri: https://static.wixstatic.com/media/0e2442_87d0ccd9e923457aad6e8b649cabcc28f000.jpg/v1/fill/w_244,h_137,al_c,q_80,usm_0.66_1.00_0.01,blur_2/0e2442_87d0ccd9e923457aad6e8b649cabcc28f000.jpg
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_87d0ccd9e923457aad6e8b649cabcc28f000.jpg\v1\fill\w_244,h_137,al_c,q_80,usm_0.66_1.00_0.01,blur_2\0e2442_87d0ccd9e923457aad6e8b649cabcc28f000.jpg
+Uri: https://static.wixstatic.com/media/0e2442_87d0ccd9e923457aad6e8b649cabcc28f000.jpg/v1/fill/w_241,h_136,al_c,q_80,usm_0.66_1.00_0.01,blur_2/0e2442_87d0ccd9e923457aad6e8b649cabcc28f000.jpg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_87d0ccd9e923457aad6e8b649cabcc28f000.jpg\v1\fill\w_241,h_136,al_c,q_80,usm_0.66_1.00_0.01,blur_2\0e2442_87d0ccd9e923457aad6e8b649cabcc28f000.jpg
 Content Type: image/jpeg
 
-Uri: https://static.wixstatic.com/media/0e2442_9a1976a509c4408cb1b8160faae8d7fff000.jpg/v1/fill/w_186,h_105,al_c,q_80,usm_0.66_1.00_0.01,blur_3/0e2442_9a1976a509c4408cb1b8160faae8d7fff000.jpg
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_9a1976a509c4408cb1b8160faae8d7fff000.jpg\v1\fill\w_186,h_105,al_c,q_80,usm_0.66_1.00_0.01,blur_3\0e2442_9a1976a509c4408cb1b8160faae8d7fff000.jpg
+Uri: https://static.wixstatic.com/media/0e2442_9a1976a509c4408cb1b8160faae8d7fff000.jpg/v1/fill/w_94,h_53,al_c,q_80,usm_0.66_1.00_0.01,blur_2/0e2442_9a1976a509c4408cb1b8160faae8d7fff000.jpg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_9a1976a509c4408cb1b8160faae8d7fff000.jpg\v1\fill\w_94,h_53,al_c,q_80,usm_0.66_1.00_0.01,blur_2\0e2442_9a1976a509c4408cb1b8160faae8d7fff000.jpg
 Content Type: image/jpeg
 
-Uri: https://static.wixstatic.com/media/0e2442_4b92593257924e8eaf7a640c72931eebf000.jpg/v1/fill/w_184,h_104,al_c,q_80,usm_0.66_1.00_0.01,blur_3/0e2442_4b92593257924e8eaf7a640c72931eebf000.jpg
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_4b92593257924e8eaf7a640c72931eebf000.jpg\v1\fill\w_184,h_104,al_c,q_80,usm_0.66_1.00_0.01,blur_3\0e2442_4b92593257924e8eaf7a640c72931eebf000.jpg
+Uri: https://static.wixstatic.com/media/0e2442_4b92593257924e8eaf7a640c72931eebf000.jpg/v1/fill/w_93,h_53,al_c,q_80,usm_0.66_1.00_0.01,blur_2/0e2442_4b92593257924e8eaf7a640c72931eebf000.jpg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_4b92593257924e8eaf7a640c72931eebf000.jpg\v1\fill\w_93,h_53,al_c,q_80,usm_0.66_1.00_0.01,blur_2\0e2442_4b92593257924e8eaf7a640c72931eebf000.jpg
 Content Type: image/jpeg
 
 Uri: https://static.wixstatic.com/media/0e2442_6481caa16566435bad001013e4bed1a4~mv2.gif
 File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_6481caa16566435bad001013e4bed1a4~mv2.gif
 Content Type: image/gif
 
+Uri: https://static.wixstatic.com/media/0e2442_9503975d48364d82be6d56bac319d6bef000.jpg/v1/fill/w_245,h_103,al_c,q_80,usm_0.66_1.00_0.01,blur_2/0e2442_9503975d48364d82be6d56bac319d6bef000.jpg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_9503975d48364d82be6d56bac319d6bef000.jpg\v1\fill\w_245,h_103,al_c,q_80,usm_0.66_1.00_0.01,blur_2\0e2442_9503975d48364d82be6d56bac319d6bef000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0e2442_e2eab69b55964b5bb7314cfbc991b689f000.jpg/v1/fill/w_128,h_72,al_c,q_80,usm_0.66_1.00_0.01,blur_2/0e2442_e2eab69b55964b5bb7314cfbc991b689f000.jpg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_e2eab69b55964b5bb7314cfbc991b689f000.jpg\v1\fill\w_128,h_72,al_c,q_80,usm_0.66_1.00_0.01,blur_2\0e2442_e2eab69b55964b5bb7314cfbc991b689f000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0e2442_4b92593257924e8eaf7a640c72931eebf000.jpg/v1/fill/w_126,h_71,al_c,q_80,usm_0.66_1.00_0.01,blur_2/0e2442_4b92593257924e8eaf7a640c72931eebf000.jpg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_4b92593257924e8eaf7a640c72931eebf000.jpg\v1\fill\w_126,h_71,al_c,q_80,usm_0.66_1.00_0.01,blur_2\0e2442_4b92593257924e8eaf7a640c72931eebf000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0e2442_eb5a76cd8b334810953208f8588a2dec~mv2.jpg/v1/fill/w_123,h_109,al_c,q_80,usm_0.66_1.00_0.01,blur_2/0e2442_eb5a76cd8b334810953208f8588a2dec~mv2.jpg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_eb5a76cd8b334810953208f8588a2dec~mv2.jpg\v1\fill\w_123,h_109,al_c,q_80,usm_0.66_1.00_0.01,blur_2\0e2442_eb5a76cd8b334810953208f8588a2dec~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0e2442_cd35cc8f60a347868d38940efab75148~mv2.jpg/v1/fill/w_109,h_109,al_c,q_80,usm_0.66_1.00_0.01,blur_2/0e2442_cd35cc8f60a347868d38940efab75148~mv2.jpg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_cd35cc8f60a347868d38940efab75148~mv2.jpg\v1\fill\w_109,h_109,al_c,q_80,usm_0.66_1.00_0.01,blur_2\0e2442_cd35cc8f60a347868d38940efab75148~mv2.jpg
+Content Type: image/jpeg
+
 Uri: https://static.wixstatic.com/media/0e2442_7297070622ae427a8bcfe8dac62e5f6a~mv2.gif
 File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_7297070622ae427a8bcfe8dac62e5f6a~mv2.gif
 Content Type: image/gif
 
-Uri: https://static.parastorage.com/services/linguist-flags/1.663.0/assets/flags/round/USA_2x.png
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\linguist-flags\1.663.0\assets\flags\round\USA_2x.png
+Uri: https://static.wixstatic.com/media/0e2442_8be36675dd8b4b24bbeb9a860c32d62cf000.jpg/v1/fill/w_126,h_71,al_c,q_80,usm_0.66_1.00_0.01,blur_2/0e2442_8be36675dd8b4b24bbeb9a860c32d62cf000.jpg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_8be36675dd8b4b24bbeb9a860c32d62cf000.jpg\v1\fill\w_126,h_71,al_c,q_80,usm_0.66_1.00_0.01,blur_2\0e2442_8be36675dd8b4b24bbeb9a860c32d62cf000.jpg
+Content Type: image/jpeg
+
+Uri: https://taller4.itch.io/recess-rumble-x
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\recess-rumble-x.html
+Content Type: text/html
+
+Uri: https://etziok.itch.io/escape-field-2
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\escape-field-2.html
+Content Type: text/html
+
+Uri: https://static.wixstatic.com/media/0e2442_0a83d5dc16764c5ca0224d41d4117218~mv2.jpg/v1/fill/w_128,h_72,al_c,q_80,usm_0.66_1.00_0.01,blur_2/0e2442_0a83d5dc16764c5ca0224d41d4117218~mv2.jpg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_0a83d5dc16764c5ca0224d41d4117218~mv2.jpg\v1\fill\w_128,h_72,al_c,q_80,usm_0.66_1.00_0.01,blur_2\0e2442_0a83d5dc16764c5ca0224d41d4117218~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0e2442_e5b9f25b02a84fa68a6f34d231f23b4c~mv2.png/v1/fill/w_126,h_67,al_c,usm_0.66_1.00_0.01,blur_2/0e2442_e5b9f25b02a84fa68a6f34d231f23b4c~mv2.png
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_e5b9f25b02a84fa68a6f34d231f23b4c~mv2.png\v1\fill\w_126,h_67,al_c,usm_0.66_1.00_0.01,blur_2\0e2442_e5b9f25b02a84fa68a6f34d231f23b4c~mv2.png
 Content Type: image/png
 
-Uri: https://static.parastorage.com/services/linguist-flags/1.663.0/assets/flags/round/ESP_2x.png
-File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\services\linguist-flags\1.663.0\assets\flags\round\ESP_2x.png
+Uri: https://static.wixstatic.com/media/0e2442_ea3c043fa12041d4b694f0060694acbd~mv2.jpg/v1/fill/w_128,h_69,al_c,q_80,usm_0.66_1.00_0.01,blur_2/0e2442_ea3c043fa12041d4b694f0060694acbd~mv2.jpg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_ea3c043fa12041d4b694f0060694acbd~mv2.jpg\v1\fill\w_128,h_69,al_c,q_80,usm_0.66_1.00_0.01,blur_2\0e2442_ea3c043fa12041d4b694f0060694acbd~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0e2442_9146268c9a42445e9d73d457f4d52306~mv2.png/v1/fill/w_126,h_53,al_c,usm_0.66_1.00_0.01,blur_2/0e2442_9146268c9a42445e9d73d457f4d52306~mv2.png
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_9146268c9a42445e9d73d457f4d52306~mv2.png\v1\fill\w_126,h_53,al_c,usm_0.66_1.00_0.01,blur_2\0e2442_9146268c9a42445e9d73d457f4d52306~mv2.png
 Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/0e2442_1277546437d5483eb9899d6d26eb2d1f~mv2.gif
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_1277546437d5483eb9899d6d26eb2d1f~mv2.gif
+Content Type: image/gif
+
+Uri: https://static.wixstatic.com/media/0e2442_bd57a37a943143839569a3db5b839d74~mv2.gif
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_bd57a37a943143839569a3db5b839d74~mv2.gif
+Content Type: image/gif
+
+Uri: https://static.wixstatic.com/media/0e2442_818ccf96166643b69aa079632a8b8580~mv2.gif
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_818ccf96166643b69aa079632a8b8580~mv2.gif
+Content Type: image/gif
+
+Uri: https://steamcommunity.com/id/CXhampion/myworkshopfiles/?appid=431960
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\id\CXhampion\myworkshopfiles\index.htm
+Content Type: text/html
+
+Uri: https://static.wixstatic.com/media/0e2442_5a4a5cfd64a84946910be9d0a2782ffbf000.jpg/v1/fill/w_245,h_103,al_c,q_80,usm_0.66_1.00_0.01,blur_2/0e2442_5a4a5cfd64a84946910be9d0a2782ffbf000.jpg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_5a4a5cfd64a84946910be9d0a2782ffbf000.jpg\v1\fill\w_245,h_103,al_c,q_80,usm_0.66_1.00_0.01,blur_2\0e2442_5a4a5cfd64a84946910be9d0a2782ffbf000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0e2442_a1622bf95fad486d9449fa9fbe488718~mv2.png/v1/crop/x_95,y_213,w_838,h_276/fill/w_185,h_61,al_c,usm_0.66_1.00_0.01,blur_3/0e2442_a1622bf95fad486d9449fa9fbe488718~mv2.png
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_a1622bf95fad486d9449fa9fbe488718~mv2.png\v1\crop\x_95,y_213,w_838,h_276\fill\w_185,h_61,al_c,usm_0.66_1.00_0.01,blur_3\0e2442_a1622bf95fad486d9449fa9fbe488718~mv2.png
+Content Type: image/png
+
+Uri: https://steamcommunity.com/id/CXhampion/
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\id\CXhampion\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/cx.kes/
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\cx.kes\index.htm
+Content Type: text/html
+
+Uri: https://static.wixstatic.com/media/0e2442_70665228ae7b4eedb5d910626b4773c9f000.jpg/v1/fill/w_245,h_103,al_c,q_80,usm_0.66_1.00_0.01,blur_2/0e2442_70665228ae7b4eedb5d910626b4773c9f000.jpg
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_70665228ae7b4eedb5d910626b4773c9f000.jpg\v1\fill\w_245,h_103,al_c,q_80,usm_0.66_1.00_0.01,blur_2\0e2442_70665228ae7b4eedb5d910626b4773c9f000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0e2442_0a138531fdf8464486b2d44d34692364~mv2.png/v1/fill/w_50,h_50,al_c,usm_0.66_1.00_0.01,blur_3/0e2442_0a138531fdf8464486b2d44d34692364~mv2.png
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\0e2442_0a138531fdf8464486b2d44d34692364~mv2.png\v1\fill\w_50,h_50,al_c,usm_0.66_1.00_0.01,blur_3\0e2442_0a138531fdf8464486b2d44d34692364~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/da7ef6dd1302486c9a67baebe4b364bc.png/v1/fill/w_50,h_50,al_c,usm_0.66_1.00_0.01,blur_3/da7ef6dd1302486c9a67baebe4b364bc.png
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\media\da7ef6dd1302486c9a67baebe4b364bc.png\v1\fill\w_50,h_50,al_c,usm_0.66_1.00_0.01,blur_3\da7ef6dd1302486c9a67baebe4b364bc.png
+Content Type: image/png
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"222"}&beckyExperiments=specs.thunderbolt.SearchBoxRtl:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.seoFriendlyDropDownMenu:true%2Cspecs.thunderbolt.reCAPTCHA_UseEnterpriseSiteKey:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.ma_comboboxinputnavigation:true%2Cspecs.thunderbolt.premiumDocumentLink:true%2Cspecs.thunderbolt.maskImageCSS:true%2Cspecs.thunderbolt.SearchBoxModalSuggestions:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.1490.0&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Ffrancokees94.wixsite.com%2Fportfolio&fileId=74b4bb42.bundle.min&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=9da0628a-1537-4911-a43f-5032661299ee&module=thunderbolt-features&originalLanguage=en&pageId=0e2442_e167b8b4f960ab692a73c8843f94a85b_408.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7372.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7372.0"}]&remoteWidgetStructureBuilderVersion=1.228.0&siteId=e7b62648-a5f1-4aeb-af05-fcb9748e759a&siteRevision=408&staticHTMLComponentUrl=https:%2F%2Ffrancokees94-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\pages\pages\thunderbolt.json
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"222"}&beckyExperiments=specs.thunderbolt.SearchBoxRtl:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.seoFriendlyDropDownMenu:true%2Cspecs.thunderbolt.reCAPTCHA_UseEnterpriseSiteKey:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.ma_comboboxinputnavigation:true%2Cspecs.thunderbolt.premiumDocumentLink:true%2Cspecs.thunderbolt.maskImageCSS:true%2Cspecs.thunderbolt.SearchBoxModalSuggestions:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.1490.0&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Ffrancokees94.wixsite.com%2Fportfolio&fileId=74b4bb42.bundle.min&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=9da0628a-1537-4911-a43f-5032661299ee&module=thunderbolt-features&originalLanguage=en&pageId=0e2442_21370ab6824a20f8bd83a3c74832185e_408.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7372.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7372.0"}]&remoteWidgetStructureBuilderVersion=1.228.0&siteId=e7b62648-a5f1-4aeb-af05-fcb9748e759a&siteRevision=408&staticHTMLComponentUrl=https:%2F%2Ffrancokees94-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\pages\pages\thunderbolt-1.json
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"222"}&beckyExperiments=specs.thunderbolt.SearchBoxRtl:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.seoFriendlyDropDownMenu:true%2Cspecs.thunderbolt.reCAPTCHA_UseEnterpriseSiteKey:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.ma_comboboxinputnavigation:true%2Cspecs.thunderbolt.LinkBarPlaceholderImages:true%2Cspecs.thunderbolt.premiumDocumentLink:true%2Cspecs.thunderbolt.maskImageCSS:true%2Cspecs.thunderbolt.SearchBoxModalSuggestions:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.1490.0&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Ffrancokees94.wixsite.com%2Fportfolio&fileId=74b4bb42.bundle.min&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=9da0628a-1537-4911-a43f-5032661299ee&module=thunderbolt-features&originalLanguage=en&pageId=0e2442_e167b8b4f960ab692a73c8843f94a85b_408.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7372.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7372.0"}]&remoteWidgetStructureBuilderVersion=1.228.0&siteId=e7b62648-a5f1-4aeb-af05-fcb9748e759a&siteRevision=408&staticHTMLComponentUrl=https:%2F%2Ffrancokees94-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\pages\pages\thunderbolt-2.json
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"222"}&beckyExperiments=specs.thunderbolt.SearchBoxRtl:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.seoFriendlyDropDownMenu:true%2Cspecs.thunderbolt.reCAPTCHA_UseEnterpriseSiteKey:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.ma_comboboxinputnavigation:true%2Cspecs.thunderbolt.LinkBarPlaceholderImages:true%2Cspecs.thunderbolt.premiumDocumentLink:true%2Cspecs.thunderbolt.maskImageCSS:true%2Cspecs.thunderbolt.SearchBoxModalSuggestions:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.1490.0&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Ffrancokees94.wixsite.com%2Fportfolio&fileId=74b4bb42.bundle.min&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=9da0628a-1537-4911-a43f-5032661299ee&module=thunderbolt-features&originalLanguage=en&pageId=0e2442_9160c65c3de02b99581780ba508578cf_407.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7372.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7372.0"}]&remoteWidgetStructureBuilderVersion=1.228.0&siteId=e7b62648-a5f1-4aeb-af05-fcb9748e759a&siteRevision=408&staticHTMLComponentUrl=https:%2F%2Ffrancokees94-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\pages\pages\thunderbolt-3.json
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"222"}&beckyExperiments=specs.thunderbolt.SearchBoxRtl:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.seoFriendlyDropDownMenu:true%2Cspecs.thunderbolt.reCAPTCHA_UseEnterpriseSiteKey:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.ma_comboboxinputnavigation:true%2Cspecs.thunderbolt.LinkBarPlaceholderImages:true%2Cspecs.thunderbolt.premiumDocumentLink:true%2Cspecs.thunderbolt.maskImageCSS:true%2Cspecs.thunderbolt.SearchBoxModalSuggestions:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.1490.0&experiments=bv_removeMenuDataFromPageJson%2Cbv_remove_add_chat_viewer_fixer%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Ffrancokees94.wixsite.com%2Fportfolio&fileId=74b4bb42.bundle.min&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=9da0628a-1537-4911-a43f-5032661299ee&module=thunderbolt-features&originalLanguage=en&pageId=0e2442_e167b8b4f960ab692a73c8843f94a85b_408.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7372.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7372.0"}]&remoteWidgetStructureBuilderVersion=1.228.0&siteId=e7b62648-a5f1-4aeb-af05-fcb9748e759a&siteRevision=408&staticHTMLComponentUrl=https:%2F%2Ffrancokees94-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\pages\pages\thunderbolt-4.json
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"222"}&beckyExperiments=specs.thunderbolt.SearchBoxRtl:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.seoFriendlyDropDownMenu:true%2Cspecs.thunderbolt.reCAPTCHA_UseEnterpriseSiteKey:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.ma_comboboxinputnavigation:true%2Cspecs.thunderbolt.LinkBarPlaceholderImages:true%2Cspecs.thunderbolt.premiumDocumentLink:true%2Cspecs.thunderbolt.maskImageCSS:true%2Cspecs.thunderbolt.SearchBoxModalSuggestions:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.1490.0&experiments=bv_removeMenuDataFromPageJson%2Cbv_remove_add_chat_viewer_fixer%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Ffrancokees94.wixsite.com%2Fportfolio&fileId=74b4bb42.bundle.min&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=9da0628a-1537-4911-a43f-5032661299ee&module=thunderbolt-features&originalLanguage=en&pageId=0e2442_20ce068de31608ea8f762d06e3f4344e_384.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7372.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7372.0"}]&remoteWidgetStructureBuilderVersion=1.228.0&siteId=e7b62648-a5f1-4aeb-af05-fcb9748e759a&siteRevision=408&staticHTMLComponentUrl=https:%2F%2Ffrancokees94-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\pages\pages\thunderbolt-5.json
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"222"}&beckyExperiments=specs.thunderbolt.SearchBoxRtl:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.seoFriendlyDropDownMenu:true%2Cspecs.thunderbolt.reCAPTCHA_UseEnterpriseSiteKey:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.ma_comboboxinputnavigation:true%2Cspecs.thunderbolt.premiumDocumentLink:true%2Cspecs.thunderbolt.maskImageCSS:true%2Cspecs.thunderbolt.SearchBoxModalSuggestions:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.1490.0&experiments=bv_removeMenuDataFromPageJson%2Cbv_remove_add_chat_viewer_fixer%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Ffrancokees94.wixsite.com%2Fportfolio&fileId=74b4bb42.bundle.min&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=9da0628a-1537-4911-a43f-5032661299ee&module=thunderbolt-features&originalLanguage=en&pageId=0e2442_e167b8b4f960ab692a73c8843f94a85b_408.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7372.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7372.0"}]&remoteWidgetStructureBuilderVersion=1.228.0&siteId=e7b62648-a5f1-4aeb-af05-fcb9748e759a&siteRevision=408&staticHTMLComponentUrl=https:%2F%2Ffrancokees94-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\pages\pages\thunderbolt-6.json
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"222"}&beckyExperiments=specs.thunderbolt.SearchBoxRtl:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.seoFriendlyDropDownMenu:true%2Cspecs.thunderbolt.reCAPTCHA_UseEnterpriseSiteKey:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.ma_comboboxinputnavigation:true%2Cspecs.thunderbolt.premiumDocumentLink:true%2Cspecs.thunderbolt.maskImageCSS:true%2Cspecs.thunderbolt.SearchBoxModalSuggestions:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.1490.0&experiments=bv_removeMenuDataFromPageJson%2Cbv_remove_add_chat_viewer_fixer%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Ffrancokees94.wixsite.com%2Fportfolio&fileId=74b4bb42.bundle.min&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=9da0628a-1537-4911-a43f-5032661299ee&module=thunderbolt-features&originalLanguage=en&pageId=0e2442_5ac5be82b89c323f410c8c6e951382dd_408.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7372.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7372.0"}]&remoteWidgetStructureBuilderVersion=1.228.0&siteId=e7b62648-a5f1-4aeb-af05-fcb9748e759a&siteRevision=408&staticHTMLComponentUrl=https:%2F%2Ffrancokees94-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\pages\pages\thunderbolt-7.json
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"222"}&beckyExperiments=specs.thunderbolt.SearchBoxRtl:true%2Cspecs.thunderbolt.responsiveAbsoluteChildrenPosition:true%2Cspecs.thunderbolt.seoFriendlyDropDownMenu:true%2Cspecs.thunderbolt.reCAPTCHA_UseEnterpriseSiteKey:true%2Cspecs.thunderbolt.byRefV2:true%2Cspecs.thunderbolt.ma_comboboxinputnavigation:true%2Cspecs.thunderbolt.LinkBarPlaceholderImages:true%2Cspecs.thunderbolt.premiumDocumentLink:true%2Cspecs.thunderbolt.maskImageCSS:true%2Cspecs.thunderbolt.SearchBoxModalSuggestions:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.1490.0&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkRelDefaults%2Cdm_migrateToTextTheme&externalBaseUrl=https:%2F%2Ffrancokees94.wixsite.com%2Fportfolio&fileId=74b4bb42.bundle.min&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=9da0628a-1537-4911-a43f-5032661299ee&module=thunderbolt-features&originalLanguage=en&pageId=0e2442_f14b41e2d7c19ae2ae951f8fd91c4642_384.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7372.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.7372.0"}]&remoteWidgetStructureBuilderVersion=1.228.0&siteId=e7b62648-a5f1-4aeb-af05-fcb9748e759a&siteRevision=408&staticHTMLComponentUrl=https:%2F%2Ffrancokees94-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Users\etzio\Desktop\website\francokees94.wixsite.com\pages\pages\thunderbolt-8.json
+Content Type: application/json
 
