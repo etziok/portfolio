@@ -1,0 +1,11 @@
+ROJO PASTEL: #FF6161    hsl(0, 100%, 69%)
+VERDE LETRAS RESALTADO: #4BD1A0         hsl(158, 59%, 56%)
+GRIS COLOR: #2F2E2E           hsl(0, 1%, 18%)
+
+
+My name is Franco Yair Kees and I am a skilled designer presenting unique projects.
+I do this job because I love it and I always find a non-standard approach to the task.
+I live in Argentina but work with clients from all over the world.
+
+
+
