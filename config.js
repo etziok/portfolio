@@ -112,7 +112,7 @@ const CONFIG = {
     { imagen: "", loop: "images/tao.mp4", youtube: "", titulo_en: "The Abyss of Oblivion", titulo_es: "The Abyss of Oblivion", link: "https://etziok.itch.io/tao" },
     { imagen: "", loop: "images/oddisey.mp4", youtube: "", titulo_en: "Oddysey VR",    titulo_es: "Oddysey VR",        link: "https://tryhard-studios.itch.io/ods-odyssey-vr" },
     { imagen: "images/cloudlabsi2.jpg", loop: "", youtube: "", titulo_en: "Cloudlabs learning", titulo_es: "Cloudlabs learning", link: "https://cloudlabslearning.com/" },
-    { imagen: "", loop: "images/recessIMG.png", youtube: "", titulo_en: "Recess Rumble X",    titulo_es: "Recess Rumble X",   link: "https://etziok.itch.io/recess-rumble" }
+    { imagen: "images/recessIMG.png", loop: "", youtube: "", titulo_en: "Recess Rumble X",    titulo_es: "Recess Rumble X",   link: "https://etziok.itch.io/recess-rumble" }
   ],
 
   // ──────────────────────────────────────────────────────────────────────
